@@ -1,2 +1,2 @@
-# cv-vn
+# vn
 direct to CV
